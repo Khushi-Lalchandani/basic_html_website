@@ -85,6 +85,9 @@ header {
 .education {
   border: 1px solid black;
 }
+.experience_inside a {
+  text-decoration: none;
+}
 
 .experience_inside,
 .education_inside {
